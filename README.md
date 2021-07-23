@@ -1,1 +1,1 @@
-# hcl-hackathon-accountmanagement
+# hcl-hackathon-account management
